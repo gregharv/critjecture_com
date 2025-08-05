@@ -12,7 +12,7 @@
 I'm here to help you build secure, transparent AI solutions that deliver real business value. Whether you're exploring AI for the first time or looking to enhance existing systems, let's discuss how I can help.
 :::
 
-<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+<form action="https://formspree.io/f/xnnzgoyk" method="POST">
 
 ::: {.form-group}
 **Name**  
@@ -21,7 +21,7 @@ I'm here to help you build secure, transparent AI solutions that deliver real bu
 
 ::: {.form-group}
 **Email**  
-<input type="email" name="email" class="form-control" placeholder="email@company.com" required>
+<input type="email" name="email" class="form-control" placeholder="greg@critjecture.com" required>
 :::
 
 ::: {.form-group}

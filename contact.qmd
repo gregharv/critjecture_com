@@ -1,0 +1,72 @@
+::: {.hero-section}
+# Contact Us {.display-1}
+
+**Ready to build AI and ontological systems you can understand? Let's talk.**
+:::
+
+::: {.section}
+## Get Started Today
+
+**Free 30-minute consultation to discuss your AI needs and opportunities**
+
+I'm here to help you build secure, transparent AI solutions that deliver real business value. Whether you're exploring AI for the first time or looking to enhance existing systems, let's discuss how I can help.
+:::
+
+<form action="https://formspree.io/f/YOUR_FORM_ID" method="POST">
+
+::: {.form-group}
+**Name**  
+<input type="text" name="name" class="form-control" placeholder="Name" required>
+:::
+
+::: {.form-group}
+**Email**  
+<input type="email" name="email" class="form-control" placeholder="email@company.com" required>
+:::
+
+::: {.form-group}
+**Message**  
+<textarea name="message" class="form-control" rows="5" placeholder="Tell us about your AI needs and goals..." required></textarea>
+:::
+
+::: {.form-group}
+<button type="submit" class="btn btn-primary">Send Message</button>
+:::
+</form>
+
+
+::: {.section}
+## Schedule a Consultation
+
+**Book a free 30-minute discovery call to discuss your AI needs or email [greg@critjecture.com](mailto:greg@critjecture.com)**
+
+::: {.calendar-embed}
+[Schedule Free Consultation](https://calendly.com/your-username/30min){.btn .btn-primary .btn-lg .center target="_blank"}
+:::
+:::
+
+::: {.section}
+## What to Expect
+
+::: {.expectation-grid}
+::: {.expectation-item}
+### Initial Discussion
+We'll discuss your business goals, current systems, and how AI and ontological systems could benefit your organization.
+:::
+
+::: {.expectation-item}
+### Technical Assessment
+We'll evaluate your current infrastructure and identify the best approach for AI and ontological systems implementation.
+:::
+
+::: {.expectation-item}
+### Solution Design
+We'll outline a custom solution that meets your specific needs and security requirements.
+:::
+
+::: {.expectation-item}
+### Implementation Plan
+We'll provide a clear roadmap for building and deploying your ontology and AI solution.
+:::
+:::
+:::

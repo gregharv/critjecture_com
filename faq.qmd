@@ -1,0 +1,72 @@
+::: {.hero-section}
+# Frequently Asked Questions {.display-1}
+
+**Common questions about our AI ontology solutions and services**
+:::
+
+::: {.section}
+## General Questions
+
+::: {.faq-section}
+**Q: How much do AI and ontological systems cost?**  
+A: Pricing typically ranges from $5,000-$50,000. The final cost depends heavily on how scattered your data sources are - more dispersed data requires more complex ontological mapping and integration work. Simple projects with 2-3 data sources might cost $5,000-$15,000, while complex systems integrating 10+ scattered data sources can reach $30,000-$50,000. I offer a free consultation to assess your specific data landscape and provide a detailed quote.
+
+**Q: How long does it take to build an AI and ontological system?**  
+A: Project duration correlates with data complexity: simple projects (2-3 data sources) typically take 4-6 weeks, while complex systems (10+ scattered data sources) can take 8-16 weeks. The timeline depends on how dispersed your data sources are and the level of ontological mapping required. I'll provide a detailed timeline during our initial consultation.
+
+**Q: What if I'm not sure AI and ontological systems are right for my business?**  
+A: That's exactly why I offer free consultations. I'll help you understand if and how AI and ontological systems could benefit your specific situation.
+
+**Q: Do you provide ongoing support?**  
+A: Yes, I offer ongoing support and optimization services to ensure your AI solutions continue to deliver value.
+
+**Q: What about security and compliance?**  
+A: Security is built into every solution from the ground up. I have deep experience with regulated industries and can ensure compliance with your specific requirements.
+:::
+:::
+
+::: {.section}
+## Technical Questions
+
+::: {.faq-section}
+**Q: What types of AI solutions do you build?**  
+A: I specialize in transparent, explainable AI systems including data ontologies and AI-powered analytics platforms.
+
+**Q: Do you work with existing data systems?**  
+A: Yes, I integrate with existing databases, APIs, and business systems to create seamless AI solutions.
+
+**Q: What makes your AI solutions different?**  
+A: My approach focuses on transparency and explainability. I build systems where you can trace every decision back to its source data.
+
+**Q: Can you help with data preparation?**  
+A: Absolutely. I help clean, structure, and prepare your data for AI applications, including building robust ontologies.
+:::
+:::
+
+::: {.section}
+## Process Questions
+
+::: {.faq-section}
+**Q: What's involved in the initial consultation?**  
+A: We discuss your business goals, current systems, and explore how AI and ontological systems could benefit your organization. It's a free, no-obligation conversation.
+
+**Q: How do you ensure the solution meets our needs?**  
+A: I follow an iterative process of conjecture and criticism, continuously refining the solution based on your feedback and business requirements.
+
+**Q: What happens after the project is complete?**  
+A: I provide training, documentation, and ongoing support to ensure your team can effectively use and maintain the AI and ontological system.
+
+**Q: Can you help with change management?**  
+A: Yes, I provide guidance on implementing AI and ontological systems within your organization, including training and process optimization.
+:::
+:::
+
+::: {.section-centered}
+## Still Have Questions?
+
+**Ready to discuss your specific needs? Schedule a free consultation to get personalized answers.**
+
+::: {.hero-cta}
+[Schedule Free Consultation](contact.html){.btn .btn-primary .btn-lg}
+:::
+::: 

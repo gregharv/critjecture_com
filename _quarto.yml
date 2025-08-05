@@ -1,0 +1,83 @@
+project:
+  type: website
+  output-dir: _site
+
+# Site metadata
+site:
+  title: "Critjecture"
+  description: "Secure and Traceable AI Solutions for Your Business"
+  url: "https://critjecture.com"
+  author:
+    name: "Critjecture"
+    email: "greg@critjecture.com"
+  favicon: favicon.svg
+  navbar:
+    left:
+      - href: contact.qmd
+        text: Contact
+      - href: https://critjecture-app-production.up.railway.app/
+        text: App
+        target: _blank
+    right:
+      - text: FAQ
+        href: faq.qmd
+      - icon: twitter-x
+        href: https://x.com/gregharvey
+  page-footer: false
+  page-margin: false
+
+# Format settings
+format:
+  html:
+    theme: darkly
+    css: styles.css
+    toc: false
+    number-sections: false
+    code-fold: false
+    code-tools: false
+    code-link: true
+    fig-cap-location: bottom
+    fig-dpi: 300
+    fig-format: png
+    fig-width: 8
+    fig-height: 6
+    link-external-newwindow: true
+    html-math-method: katex
+    # Dark mode support
+    dark-mode: true
+    # Limit heading links to level 1 and 2 only
+    toc-depth: 2
+    anchor-sections: false
+
+# Blog settings
+blog:
+  title: "Critjecture Blog"
+  description: "Insights and tips for data-driven business decisions"
+  page-size: 10
+  feed: true
+  read-more: "Read more..."
+  sort-by: date
+  sort-direction: desc
+
+# Search
+search: true
+
+# Analytics (optional)
+google-analytics: G-XXXXXXXXXX
+
+# Social sharing
+open-graph: true
+twitter-card: true
+
+# Bibliography (optional)
+# bibliography: references.bib
+# csl: apa.csl
+
+# Execute settings
+execute:
+  echo: true
+  warning: false
+  error: false
+  eval: true
+  cache: true
+  freeze: auto 

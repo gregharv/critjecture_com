@@ -1,0 +1,111 @@
+::: {.hero-section}
+::: {.brand-header}
+![Critjecture](favicon.svg){.brand-icon}
+:::
+
+# Forge Knowledge from Data{.display-1}
+
+**Businesses possess vast amounts of data, but is it creating knowledge? We believe knowledge is forged through a process of <abbr title="The philosophical approach that knowledge is advanced by proposing creative hypotheses (conjecture) and then attempting to refute them (criticism).">criticism and conjecture</abbr>. We transform scattered data into robust <abbr title="A formal model of business data, defining entities, their properties, and the relationships between them. It acts as a 'map of knowledge'.">ontologies</abbr> (maps of business data) that empower both teams and AI to find verifiable answers.**
+:::
+
+::: {.services-overview}
+::: {.service-card}
+### Ontology Engineering
+Knowledge creation begins with critically thinking about our models of the world. Through conjecture, we propose models for business data, and through criticism, we refine them. The result is a bespoke ontology that creates a single source of record for business operations.
+:::
+
+::: {.service-card}
+### Transparent AI & Analytics
+An ontology enables AI to link patterns across broader conceptual networks, creating more sophisticated answers. We build systems where AI-driven insights are transparent and traceable, allowing teams to better understand the answers they receive and question them effectively.
+:::
+:::
+
+::: {.section}
+## Why Critjecture?
+
+Standard data organization is a passive act. At Critjecture, we treat it as an active dialogue. We propose structures (<abbr title="The process of forming a hypothesis or educated guess based on available information. In our context, proposing a potential model for business data.">*conjecture*</abbr>) and then rigorously test them against business reality (<abbr title="The process of rigorously analyzing and testing a hypothesis to find its flaws and limitations, leading to refinement and stronger knowledge.">*criticism*</abbr>).
+
+This process doesn't just produce a clean database; it builds a living <abbr title="A formal model of business data, defining entities, their properties, and the relationships between them. It acts as a 'map of knowledge'.">*ontology*</abbr>, a dynamic model of business knowledge. This becomes the central "brain" that allows both people and intelligent agents to ask deeper questions and retrieve meaningful answers. As a solo consultancy, clients receive a dedicated, expert partner focused entirely on their success.
+
+::: {.stats-grid}
+::: {.stat-item}
+### <abbr title="The process of forming a hypothesis or educated guess based on available information.">Conjecture</abbr>
+Modeling Data's Potential
+:::
+
+::: {.stat-item}
+### <abbr title="The process of rigorously analyzing and testing a hypothesis to find its flaws and limitations.">Criticism</abbr>
+Refining Models to Fit Reality
+:::
+
+::: {.stat-item}
+### <abbr title="Durable, well-structured knowledge models that serve as a single, reliable source of record for business operations.">Robust Ontologies</abbr>
+As a Single Source of Record
+:::
+
+::: {.stat-item}
+### <abbr title="Insights and data points that can be traced back to their source, allowing for validation and increased understanding.">Verifiable Answers</abbr>
+For Humans & AI
+:::
+
+::: {.stat-item}
+### <abbr title="Processes where the steps taken by an AI or system are clear and auditable, not hidden in a 'black box'.">Transparent Workflows</abbr>
+Teams Can Depend on
+:::
+
+::: {.stat-item}
+### <abbr title="Clients work directly with the principal expert, ensuring deep focus, accountability, and a consistent vision for their project.">Solo Expertise</abbr>
+Dedicated Focus on Client Projects
+:::
+:::
+:::
+
+::: {.section}
+## Our Approach: A Cycle of Inquiry
+
+Our method is a continuous loop of questioning and refining to build the most accurate and useful knowledge model for business operations.
+
+::: {.approach-grid}
+::: {.approach-item}
+### 1. Discovery & Conjecture
+We begin by exploring the data landscape and proposing initial models. We ask: "What are the key entities in the business? What are the hypothetical relationships between them?"
+:::
+
+::: {.approach-item}
+### 2. Modeling & Criticism
+We construct the formal ontology and then rigorously challenge it. We test its logic, validate it against real-world scenarios, and refine its structure until it accurately reflects the business domain.
+:::
+
+::: {.approach-item}
+### 3. Activation & Integration
+We deploy the ontology, making it the backbone for data systems. We ensure it integrates seamlessly with existing tools and provides a queryable knowledge layer for AI applications.
+:::
+
+::: {.approach-item}
+### 4. Evolution & Refinement
+Knowledge is not static. We establish a framework for the ontology to evolve as businesses grow, ensuring it remains a relevant and powerful asset for years to come.
+:::
+:::
+:::
+
+::: {.section-centered}
+## See Our Philosophy in Action
+
+Curious what a transparent AI workflow looks like? Our demo application provides a firsthand experience. Upload a CSV file, ask it a question, and receive a report complete with interactive charts and linked sources.
+
+This is the future of data interaction: not a black box, but a clear, auditable process.
+
+::: {.hero-cta}
+[Try the Critjecture App](https://critjecture-app-production.up.railway.app/){.btn .btn-secondary .btn-lg}
+:::
+:::
+
+::: {.section-centered}
+## Ready to Unlock Real Knowledge?
+
+**Let's talk about how the Critjecture method can transform scattered data into a powerful, understandable and AI ready ontology. Schedule a free 30-minute consultation to begin the dialogue.**
+
+::: {.hero-cta}
+[Schedule a Consultation](contact.html){.btn .btn-primary .btn-lg}
+:::
+:::

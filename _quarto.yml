@@ -7,6 +7,7 @@ site:
   title: "Critjecture"
   description: "Secure and Traceable AI Solutions for Your Business"
   url: "https://critjecture.com"
+  google-analytics: G-G5HVMCKLYL
   author:
     name: "Critjecture"
     email: "greg@critjecture.com"
@@ -48,8 +49,6 @@ format:
     # Limit heading links to level 1 and 2 only
     toc-depth: 2
     anchor-sections: false
-    # Google Analytics
-    google-analytics: G-G5HVMCKLYL
 
 # Blog settings
 blog:
@@ -63,9 +62,6 @@ blog:
 
 # Search
 search: true
-
-# Analytics (optional)
-# google-analytics: G-G5HVMCKLYL
 
 # Social sharing
 open-graph: true

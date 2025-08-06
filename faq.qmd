@@ -1,8 +1,9 @@
-::: {.hero-section}
-# Frequently Asked Questions {.display-1}
-
-**Common questions about our AI ontology solutions and services**
-:::
+---
+title: "Frequently Asked Questions"
+toc: true
+toc-location: right
+toc-depth: 2
+---
 
 ::: {.section}
 ## General Questions

@@ -792,4 +792,21 @@ a:hover {
   margin: 0 !important;
 }
 
+/* Center the title */
+.title {
+  text-align: center;
+  font-size: 3rem;
+  margin-bottom: 2rem;
+}
+
+/* Alternative: If the above doesn't work, try this more specific selector */
+h1.title {
+  text-align: center;
+}
+
+/* For even more specificity, you can target the title in the header */
+.title-block .title {
+  text-align: center;
+}
+
  

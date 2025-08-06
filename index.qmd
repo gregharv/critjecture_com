@@ -1,31 +1,35 @@
+---
+title: "Forge Knowledge from Data"
+toc: true
+toc-location: right
+toc-depth: 2
+---
+
 ::: {.hero-section}
 ::: {.brand-header}
 ![Critjecture](favicon.svg){.brand-icon}
 :::
-
-# Forge Knowledge from Data{.display-1}
-
 **Businesses possess vast amounts of data, but is it creating knowledge? We believe knowledge is forged through a process of <abbr title="The philosophical approach that knowledge is advanced by proposing creative hypotheses (conjecture) and then attempting to refute them (criticism).">criticism and conjecture</abbr>. We transform scattered data into robust <abbr title="A formal model of business data, defining entities, their properties, and the relationships between them. It acts as a 'map of knowledge'.">ontologies</abbr> (maps of business data) that empower both people and AI to quickly iterate on the knowledge process and find verifiable answers.**
 :::
 
 ::: {.services-overview}
 ::: {.service-card}
 ### Ontology Engineering
-Knowledge creation begins with critically thinking about our models of the world. Through conjecture, we propose models for business data, and through criticism, we refine them. The result is a bespoke ontology that creates a single source of record for business operations.
+We forge knowledge by criticizing our models of the world. Through a rigorous cycle of conjecture and criticism, we build and refine a map of your business data. This becomes your ontology, a robust framework designed to accelerate the process of proposing and refuting ideas, creating a single, testable view of your operations.
 :::
 
 ::: {.service-card}
 ### Transparent AI & Analytics
-An ontology enables AI to link patterns across broader conceptual networks, creating more sophisticated answers. We build systems where AI-driven insights are transparent and traceable, allowing teams to better understand the answers they receive and question them effectively.
+AI doesn't create knowledge, but it’s a powerful tool for criticism. It uses the ontology to help your team test conjectures faster by surfacing problems, patterns, and counter examples. We build transparent AI systems where every insight is traceable, empowering your team to critically evaluate and not blindly trust the answers they receive.
 :::
 :::
 
 ::: {.section}
 ## Why Critjecture?
 
-Standard data organization is a passive act. At Critjecture, I treat it as an active dialogue. I propose structures (<abbr title="The process of forming a hypothesis or educated guess based on available information. In our context, proposing a potential model for business data.">*conjecture*</abbr>) and then rigorously test them against business reality (<abbr title="The process of rigorously analyzing and testing a hypothesis to find its flaws and limitations, leading to refinement and stronger knowledge.">*criticism*</abbr>).
+Standard data organization is typically passive. I treat it as an active dialogue. Through rapid cycles of conjecture (proposing models) and criticism (testing them against reality), I forge a living map of your business knowledge, not just a static database.
 
-This process doesn't just produce a clean database; it builds a living <abbr title="A formal model of business data, defining entities, their properties, and the relationships between them. It acts as a 'map of knowledge'.">*ontology*</abbr>, a dynamic model of business knowledge. This becomes the central "brain" that allows both people and intelligent agents to ask deeper questions and retrieve meaningful answers. As a solo consultancy, clients receive a dedicated, expert partner focused entirely on their success.
+As a solo consultant, you get a dedicated partner. My entire focus is on applying this rigorous process to build a robust, testable ontology that is uniquely yours.
 
 ::: {.stats-grid}
 ::: {.stat-item}

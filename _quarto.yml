@@ -15,12 +15,12 @@ site:
     left:
       - href: contact.qmd
         text: Contact
+      - text: FAQ
+        href: faq.qmd
+    right:
       - href: https://critjecture-app-production.up.railway.app/
         text: App
         target: _blank
-    right:
-      - text: FAQ
-        href: faq.qmd
       - icon: twitter-x
         href: https://x.com/gregharvey
   page-footer: false

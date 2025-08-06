@@ -6,101 +6,113 @@ toc-depth: 2
 ---
 
 ::: {.section}
+## Understanding the Basics
+
+::: {.faq-section}
+**Q: What is an ontology, and why do I need one?**  
+A: Think of an ontology as a "business blueprint" for your company's knowledge. It's a smart map that defines all your key concepts—like 'customer,' 'product,' 'sale,' and 'support ticket'—and, crucially, shows how they relate to each other.
+
+Right now, that information is likely scattered across spreadsheets, databases, and different software. By building an ontology, we create a single, logical source of truth. This solid foundation is what allows an AI to understand your business and answer complex questions accurately.
+
+**Q: So, you build the ontology *first*, then the AI?**  
+A: Exactly. The ontology is the essential groundwork. It provides the structure and context the AI needs to be truly useful. We start by building your custom ontology, then demonstrate its power with a simple AI questioning system. Once that foundation is in place, we can build much more advanced data science solutions on top of it.
+:::
+:::
+
+
+::: {.section}
 ## General Questions
 
 ::: {.faq-section}
-**Q: How much do AI and ontological systems cost?**  
-A: Pricing typically ranges from $5,000-$50,000. The final cost depends heavily on how scattered your data sources are - more dispersed data requires more complex ontological mapping and integration work. Simple projects with 2-3 data sources might cost $5,000-$15,000, while complex systems integrating 10+ scattered data sources can reach $30,000-$50,000. I offer a free consultation to assess your specific data landscape and provide a detailed quote.
+**Q: How much does an ontology and AI system cost?**  
+A: The investment typically ranges from $5,000 to $50,000. The final price depends on the specific business outcomes we're targeting and the complexity of your data.
 
-**Q: How long does it take to build an AI and ontological system?**  
-A: Project duration correlates with data complexity: simple projects (2-3 data sources) typically take few weeks, while complex systems (10+ scattered data sources) can take 5-10 weeks. The timeline depends on how dispersed your data sources are and the level of ontological mapping required. I'll provide a detailed timeline after our initial consultation.
+A starter project, perfect for a single department or a few data sources, usually falls in the $5,000-$15,000 range. More comprehensive systems that integrate many scattered data sources can range from $30,000-$50,000. I provide a detailed, fixed-price quote after our free consultation.
 
-**Q: What if I'm not sure AI and ontological systems are right for my business?**  
-A: That's exactly why I offer free consultations. I'll help you understand if and how AI and ontological systems could benefit your specific situation.
+**Q: How long does it take?**  
+A: The timeline depends on the complexity of your data. A focused, simple project can take a few weeks to a couple of months. Larger projects can take several months. I'll provide a clear project timeline with milestones after our initial discovery session.
+
+**Q: What if I'm not sure this is right for my business?**  
+A: That's precisely why the initial consultation is free. We'll discuss your challenges and goals, and I'll give you an honest assessment of how (or if) this approach can help you. There's no pressure and no obligation.
+
+**Q: Who will I be working with?**  
+A: You will work directly with me, from the initial conversation to final delivery. As a solo consultant, I am the lead strategist, developer, and your single point of contact. This ensures clear communication and a deep understanding of your business needs throughout the project.
 
 **Q: Do you provide ongoing support?**  
-A: Yes, I offer ongoing support and optimization services to ensure your AI solutions continue to deliver value.
+A: Yes. I offer optional ongoing support and maintenance retainers to ensure your system continues to evolve with your business and deliver maximum value.
 
-**Q: What about security and compliance?**  
-A: Security is built into every solution from the ground up. I have deep experience with regulated industries and can ensure compliance with your specific requirements.
+**Q: What about data security and privacy?**  
+A: Security and privacy are paramount. My process is designed with security in mind from day one, especially for regulated industries. We will ensure the solution adheres to your specific compliance and data governance requirements.
 :::
 :::
 
 ::: {.section}
-## Technical Questions
+## Technical & Process Questions
 
 ::: {.faq-section}
-**Q: What types of AI solutions do you build?**  
-A: I specialize in transparent, explainable AI systems including data ontologies and AI-powered analytics platforms.
-
-**Q: Do you work with existing data systems?**  
-A: Yes, I integrate with existing databases, APIs, and business systems to create seamless AI solutions.
-
 **Q: What makes your AI solutions different?**  
-A: My approach focuses on transparency and explainability. I build systems where you can trace every decision back to its source data.
+A: My focus is on creating transparent, explainable AI, not a "black box." Because the AI is built on a logical ontology, you can trace every answer and insight back to the source data. You'll understand *why* the system gives a certain answer, which builds understanding and enables better decision-making.
 
-**Q: Can you help with data preparation?**  
-A: Absolutely. I help clean, structure, and prepare your data for AI applications, including building robust ontologies.
-:::
-:::
-
-::: {.section}
-## Process Questions
-
-::: {.faq-section}
-**Q: What's involved in the initial consultation?**  
-A: We discuss your business goals, current systems, and explore how AI and ontological systems could benefit your organization. It's a free, no-obligation conversation.
+**Q: Do you work with our existing data systems?**  
+A: Yes, absolutely. I specialize in integrating with the systems you already use, including databases, cloud services, APIs, and business software, to create a unified view of your data.
 
 **Q: How do you ensure the solution meets our needs?**  
-A: I follow an iterative process of conjecture and criticism, continuously refining the solution based on your feedback and business requirements.
+A: I use a collaborative and iterative approach. We'll have regular check-ins and demos where you can provide feedback. This ensures the project stays aligned with your goals and that the final solution is exactly what you need.
 
 **Q: What happens after the project is complete?**  
-A: I provide training, documentation, and ongoing support to ensure your team can effectively use and maintain the AI and ontological system.
-
-**Q: Can you help with change management?**  
-A: Yes, I provide guidance on implementing AI and ontological systems within your organization, including training and process optimization.
+A: At the end of the project, I provide full documentation, training for your team, and a clear hand-off. I also offer ongoing support plans to help you maintain and expand the system as your business grows.
 :::
 :::
 
 ::: {.section}
-## Data Science Services After Ontology Setup
+## What's Possible Next? Advanced Data Science Services
 
 ::: {.faq-section}
-**Q: What data science services are available after ontology setup?**  
-A: Once your business data is organized into a robust ontology, a world of advanced analytics and AI capabilities becomes possible. Here are the key services we can build on top of your knowledge foundation:
+Once your business data is organized into a robust ontology, it becomes a powerful asset. This knowledge foundation allows us to answer critical business questions and predict future outcomes. Here are some of the advanced solutions we can build:
 
-**Q: Which of my current customers are most likely to leave in the next month?**  
-A: <abbr title="We identify the key warning signs in your data (like decreased usage or specific support issues) to create a priority list of at-risk customers, so your team can proactively intervene and save them.">The Customer Churn Predictor</abbr>
+---
 
-**Q: Which of my new customers will become my most valuable ones over time?**  
-A: <abbr title="We predict the long-term value of new customers right when they sign up. This helps you focus your best resources on high-potential clients and understand how much you can afford to spend to acquire them.">The Lifetime Value (LTV) Forecaster</abbr>
+**Goal: Reduce customer churn.**  
+*Solution: The Customer Churn Predictor*  
+We identify the key warning signs in your data (like decreased product usage or specific support issues) to create a priority list of at-risk customers, so your team can proactively intervene.
 
-**Q: What should this specific customer buy next?**  
-A: <abbr title="By analyzing past purchase patterns, we build a 'recommendation engine' to suggest the right next product or service upgrade for each individual customer, increasing your average order value.">The Up-sell & Cross-sell Recommender</abbr>
+**Goal: Identify your best new customers.**  
+*Solution: The Lifetime Value (LTV) Forecaster*  
+We predict the long-term value of new customers the moment they sign up. This helps you focus resources on high-potential clients and optimize your acquisition spending.
 
-**Q: Which new leads should my sales team focus on today?**  
-A: <abbr title="We automatically score every new lead based on their likelihood to buy. This allows your sales team to stop guessing and spend their valuable time on the prospects most likely to close.">The Lead Scoring Prioritizer</abbr>
+**Goal: Increase the value of each sale.**  
+*Solution: The Up-sell & Cross-sell Recommender*  
+By analyzing purchase patterns, we build a recommendation engine to suggest the right next product or service for each customer, increasing your average order value.
 
-**Q: Which of my marketing channels are actually driving sales?**  
-A: <abbr title="We figure out which ads, emails, and social media posts are truly contributing to sales, not just getting the last click. This lets you confidently re-invest your marketing budget in what works and cut what doesn't.">The Marketing Attribution Modeler</abbr>
+**Goal: Prioritize your sales efforts.**  
+*Solution: The Lead Scoring Prioritizer*  
+We automatically score every new lead based on their likelihood to convert. This allows your sales team to stop guessing and focus their time on the prospects most likely to close.
 
-**Q: What will our revenue realistically be next quarter?**  
-A: <abbr title="We create a data-driven sales forecast that's more accurate than a simple spreadsheet. This helps with everything from financial planning and hiring to setting more realistic goals for your team.">The Sales Forecaster</abbr>
+**Goal: Optimize your marketing budget.**  
+*Solution: The Marketing Attribution Modeler*  
+We go beyond "last-click" to determine which ads, emails, and campaigns are truly driving sales. This lets you confidently re-invest your marketing budget in what works and cut what doesn't.
 
-**Q: How much of each product should I have in stock?**  
-A: <abbr title="We predict how much of each product your customers will buy in the near future, helping you avoid costly stockouts or tying up cash in excess inventory.">The Demand & Inventory Forecaster</abbr>
+**Goal: Create more accurate financial forecasts.**  
+*Solution: The Sales & Revenue Forecaster*  
+We create a data-driven forecast that's more accurate than a simple spreadsheet, helping with financial planning, hiring, and setting realistic team goals.
 
-**Q: Is this purchase or sign-up legitimate?**  
-A: <abbr title="We build a model that spots suspicious activity in real-time by identifying patterns that look different from normal user behavior, helping you reduce fraudulent transactions and chargebacks.">The Transaction Fraud Detector</abbr>
+**Goal: Prevent stockouts and reduce excess inventory.**  
+*Solution: The Demand & Inventory Forecaster*  
+We predict how much of each product customers will buy, helping you avoid costly stockouts while not tying up cash in overstock.
+
+**Goal: Reduce fraudulent transactions.**  
+*Solution: The Transaction Fraud Detector*  
+We build a model that spots suspicious activity in real-time by identifying patterns that differ from normal user behavior, helping you reduce fraud and chargebacks.
+
 :::
 :::
 
 ::: {.section-centered}
-## Still Have Questions?
+## Ready to Build Your Company's Brain?
 
-**Ready to discuss your specific needs? Schedule a free consultation to get personalized answers.**
+**Let's discuss how a unified knowledge system can solve your specific challenges. Schedule a free, no-obligation consultation today.**
 
 ::: {.hero-cta}
 [Schedule Free Consultation](contact.html){.btn .btn-primary .btn-lg}
 :::
-::: 
+:::

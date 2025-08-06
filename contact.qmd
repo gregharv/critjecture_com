@@ -40,6 +40,14 @@ I'm here to help you build secure, transparent AI solutions that deliver real bu
 
 **Book a free 30-minute discovery call to discuss your AI needs or email [greg@critjecture.com](mailto:greg@critjecture.com)**
 
+::: {.business-hours}
+### Business Hours
+
+- **Monday - Friday:** 4:00 PM - 7:00 PM EST
+- **Saturday:** 9:00 AM - 5:00 PM EST
+- **Sunday:** Closed
+:::
+
 ::: {.calendar-embed}
 [Schedule Free Consultation](https://calendly.com/gregsharvey/30min){.btn .btn-primary .btn-lg .center target="_blank"}
 :::

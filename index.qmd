@@ -5,7 +5,7 @@
 
 # Forge Knowledge from Data{.display-1}
 
-**Businesses possess vast amounts of data, but is it creating knowledge? We believe knowledge is forged through a process of <abbr title="The philosophical approach that knowledge is advanced by proposing creative hypotheses (conjecture) and then attempting to refute them (criticism).">criticism and conjecture</abbr>. We transform scattered data into robust <abbr title="A formal model of business data, defining entities, their properties, and the relationships between them. It acts as a 'map of knowledge'.">ontologies</abbr> (maps of business data) that empower both teams and AI to find verifiable answers.**
+**Businesses possess vast amounts of data, but is it creating knowledge? We believe knowledge is forged through a process of <abbr title="The philosophical approach that knowledge is advanced by proposing creative hypotheses (conjecture) and then attempting to refute them (criticism).">criticism and conjecture</abbr>. We transform scattered data into robust <abbr title="A formal model of business data, defining entities, their properties, and the relationships between them. It acts as a 'map of knowledge'.">ontologies</abbr> (maps of business data) that empower both people and AI to quickly iterate on the knowledge process and find verifiable answers.**
 :::
 
 ::: {.services-overview}
@@ -23,7 +23,7 @@ An ontology enables AI to link patterns across broader conceptual networks, crea
 ::: {.section}
 ## Why Critjecture?
 
-Standard data organization is a passive act. At Critjecture, we treat it as an active dialogue. We propose structures (<abbr title="The process of forming a hypothesis or educated guess based on available information. In our context, proposing a potential model for business data.">*conjecture*</abbr>) and then rigorously test them against business reality (<abbr title="The process of rigorously analyzing and testing a hypothesis to find its flaws and limitations, leading to refinement and stronger knowledge.">*criticism*</abbr>).
+Standard data organization is a passive act. At Critjecture, I treat it as an active dialogue. I propose structures (<abbr title="The process of forming a hypothesis or educated guess based on available information. In our context, proposing a potential model for business data.">*conjecture*</abbr>) and then rigorously test them against business reality (<abbr title="The process of rigorously analyzing and testing a hypothesis to find its flaws and limitations, leading to refinement and stronger knowledge.">*criticism*</abbr>).
 
 This process doesn't just produce a clean database; it builds a living <abbr title="A formal model of business data, defining entities, their properties, and the relationships between them. It acts as a 'map of knowledge'.">*ontology*</abbr>, a dynamic model of business knowledge. This becomes the central "brain" that allows both people and intelligent agents to ask deeper questions and retrieve meaningful answers. As a solo consultancy, clients receive a dedicated, expert partner focused entirely on their success.
 

@@ -12,7 +12,7 @@
 A: Pricing typically ranges from $5,000-$50,000. The final cost depends heavily on how scattered your data sources are - more dispersed data requires more complex ontological mapping and integration work. Simple projects with 2-3 data sources might cost $5,000-$15,000, while complex systems integrating 10+ scattered data sources can reach $30,000-$50,000. I offer a free consultation to assess your specific data landscape and provide a detailed quote.
 
 **Q: How long does it take to build an AI and ontological system?**  
-A: Project duration correlates with data complexity: simple projects (2-3 data sources) typically take 4-6 weeks, while complex systems (10+ scattered data sources) can take 8-16 weeks. The timeline depends on how dispersed your data sources are and the level of ontological mapping required. I'll provide a detailed timeline during our initial consultation.
+A: Project duration correlates with data complexity: simple projects (2-3 data sources) typically take few weeks, while complex systems (10+ scattered data sources) can take 5-10 weeks. The timeline depends on how dispersed your data sources are and the level of ontological mapping required. I'll provide a detailed timeline after our initial consultation.
 
 **Q: What if I'm not sure AI and ontological systems are right for my business?**  
 A: That's exactly why I offer free consultations. I'll help you understand if and how AI and ontological systems could benefit your specific situation.
@@ -58,6 +58,39 @@ A: I provide training, documentation, and ongoing support to ensure your team ca
 
 **Q: Can you help with change management?**  
 A: Yes, I provide guidance on implementing AI and ontological systems within your organization, including training and process optimization.
+:::
+:::
+
+::: {.section}
+## Data Science Services After Ontology Setup
+
+::: {.faq-section}
+**Q: What data science services are available after ontology setup?**  
+A: Once your business data is organized into a robust ontology, a world of advanced analytics and AI capabilities becomes possible. Here are the key services we can build on top of your knowledge foundation:
+
+**Q: Which of my current customers are most likely to leave in the next month?**  
+A: <abbr title="We identify the key warning signs in your data (like decreased usage or specific support issues) to create a priority list of at-risk customers, so your team can proactively intervene and save them.">The Customer Churn Predictor</abbr>
+
+**Q: Which of my new customers will become my most valuable ones over time?**  
+A: <abbr title="We predict the long-term value of new customers right when they sign up. This helps you focus your best resources on high-potential clients and understand how much you can afford to spend to acquire them.">The Lifetime Value (LTV) Forecaster</abbr>
+
+**Q: What should this specific customer buy next?**  
+A: <abbr title="By analyzing past purchase patterns, we build a 'recommendation engine' to suggest the right next product or service upgrade for each individual customer, increasing your average order value.">The Up-sell & Cross-sell Recommender</abbr>
+
+**Q: Which new leads should my sales team focus on today?**  
+A: <abbr title="We automatically score every new lead based on their likelihood to buy. This allows your sales team to stop guessing and spend their valuable time on the prospects most likely to close.">The Lead Scoring Prioritizer</abbr>
+
+**Q: Which of my marketing channels are actually driving sales?**  
+A: <abbr title="We figure out which ads, emails, and social media posts are truly contributing to sales, not just getting the last click. This lets you confidently re-invest your marketing budget in what works and cut what doesn't.">The Marketing Attribution Modeler</abbr>
+
+**Q: What will our revenue realistically be next quarter?**  
+A: <abbr title="We create a data-driven sales forecast that's more accurate than a simple spreadsheet. This helps with everything from financial planning and hiring to setting more realistic goals for your team.">The Sales Forecaster</abbr>
+
+**Q: How much of each product should I have in stock?**  
+A: <abbr title="We predict how much of each product your customers will buy in the near future, helping you avoid costly stockouts or tying up cash in excess inventory.">The Demand & Inventory Forecaster</abbr>
+
+**Q: Is this purchase or sign-up legitimate?**  
+A: <abbr title="We build a model that spots suspicious activity in real-time by identifying patterns that look different from normal user behavior, helping you reduce fraudulent transactions and chargebacks.">The Transaction Fraud Detector</abbr>
 :::
 :::
 

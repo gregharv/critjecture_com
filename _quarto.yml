@@ -48,6 +48,8 @@ format:
     # Limit heading links to level 1 and 2 only
     toc-depth: 2
     anchor-sections: false
+    # Google Analytics
+    google-analytics: G-G5HVMCKLYL
 
 # Blog settings
 blog:
@@ -63,7 +65,7 @@ blog:
 search: true
 
 # Analytics (optional)
-google-analytics: G-G5HVMCKLYL
+# google-analytics: G-G5HVMCKLYL
 
 # Social sharing
 open-graph: true

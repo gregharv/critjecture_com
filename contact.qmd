@@ -21,7 +21,7 @@ I'm here to help you build secure, transparent AI solutions that deliver real bu
 
 ::: {.form-group}
 **Email**  
-<input type="email" name="email" class="form-control" placeholder="greg@critjecture.com" required>
+<input type="email" name="email" class="form-control" placeholder="you@yourcompany.com" required>
 :::
 
 ::: {.form-group}
@@ -41,7 +41,7 @@ I'm here to help you build secure, transparent AI solutions that deliver real bu
 **Book a free 30-minute discovery call to discuss your AI needs or email [greg@critjecture.com](mailto:greg@critjecture.com)**
 
 ::: {.calendar-embed}
-[Schedule Free Consultation](https://calendly.com/your-username/30min){.btn .btn-primary .btn-lg .center target="_blank"}
+[Schedule Free Consultation](https://calendly.com/gregsharvey/30min){.btn .btn-primary .btn-lg .center target="_blank"}
 :::
 :::
 

@@ -9,40 +9,35 @@ toc-depth: 2
 ## Understanding the Basics
 
 ::: {.faq-section}
-**Q: What is an ontology, and why do I need one?**  
-A: Think of an ontology as a "business blueprint" for your company's knowledge. It's a smart map that defines all your key concepts—like 'customer,' 'product,' 'sale,' and 'support ticket'—and, crucially, shows how they relate to each other.
+**Q: What is a semantic layer, and why do I need one?**  
+A: It’s a shared, business friendly map of your company’s information spanning your apps (CRM, accounting, e‑commerce), databases, and knowledge (policies, procedures, intranet). It defines common terms like “customer,” “order,” and “refund,” and shows how they relate. With one consistent layer, you get reliable, explainable answers across your systems and documents.
 
-Right now, that information is likely scattered across spreadsheets, databases, and different software. By building an ontology, we create a single, logical source of truth. This solid foundation is what allows an AI to understand your business and answer complex questions accurately.
-
-**Q: So, you build the ontology *first*, then the AI?**  
-A: Exactly. The ontology is the essential groundwork. It provides the structure and context the AI needs to be truly useful. We start by building your custom ontology, then demonstrate its power with a simple AI questioning system. Once that foundation is in place, we can build much more advanced data science solutions on top of it.
+**Q: Do you build the semantic layer first, then AI?**  
+A: Yes. The semantic layer is the foundation. Once that’s in place, we enable AI Q&A and analytics that link every answer back to source data and documents. From there, we can add advanced decision models that help you test business ideas with evidence.
 :::
 :::
-
 
 ::: {.section}
 ## General Questions
 
 ::: {.faq-section}
-**Q: How much does an ontology and AI system cost?**  
-A: The investment typically ranges from $5,000 to $50,000. The final price depends on the specific business outcomes we're targeting and the complexity of your data.
-
-A starter project, perfect for a single department or a few data sources, usually falls in the $5,000-$15,000 range. More comprehensive systems that integrate many scattered data sources can range from $30,000-$50,000. I provide a detailed, fixed-price quote after our free consultation.
+**Q: How much does a semantic layer and AI Q&A system cost?**  
+A: Typically $5,000–$50,000, depending on scope and integrations. A starter (a few sources, focused outcomes) is often $5,000–$15,000. Larger, multisystem rollups and document ingestion typically range $30,000–$50,000. You’ll get a fixed, detailed quote after a free consultation.
 
 **Q: How long does it take?**  
-A: The timeline depends on the complexity of your data. A focused, simple project can take a few weeks to a couple of months. Larger projects can take several months. I'll provide a clear project timeline with milestones after our initial discovery session.
+A: From a few weeks to several months, based on complexity and the number of systems/documents. You’ll get a clear plan with milestones after discovery.
 
-**Q: What if I'm not sure this is right for my business?**  
-A: That's precisely why the initial consultation is free. We'll discuss your challenges and goals, and I'll give you an honest assessment of how (or if) this approach can help you. There's no pressure and no obligation.
+**Q: What if I’m not sure this is right for my business?**  
+A: That’s why the initial consultation is free. We’ll discuss your goals and I’ll give an honest assessment, no pressure.
 
 **Q: Who will I be working with?**  
-A: You will work directly with me, from the initial conversation to final delivery. As a solo consultant, I am the lead strategist, developer, and your single point of contact. This ensures clear communication and a deep understanding of your business needs throughout the project.
+A: Me. As a solo consultant, I’m your strategist, builder, and single point of contact.
 
 **Q: Do you provide ongoing support?**  
-A: Yes. I offer optional ongoing support and maintenance retainers to ensure your system continues to evolve with your business and deliver maximum value.
+A: Yes, optional retainers for maintenance, evolution, and new integrations.
 
 **Q: What about data security and privacy?**  
-A: Security and privacy are paramount. My process is designed with security in mind from day one, especially for regulated industries. We will ensure the solution adheres to your specific compliance and data governance requirements.
+A: Security is baked in from day one. I have experience in the utility industry and military with many data governance requirements. I adapt to your compliance and data governance requirements.
 :::
 :::
 
@@ -51,66 +46,62 @@ A: Security and privacy are paramount. My process is designed with security in m
 
 ::: {.faq-section}
 **Q: What makes your AI solutions different?**  
-A: My focus is on creating transparent, explainable AI, not a "black box." Because the AI is built on a logical ontology, you can trace every answer and insight back to the source data. You'll understand *why* the system gives a certain answer, which builds understanding and enables better decision-making.
+A: Transparency. Because answers come through the semantic layer, every result links to its sources (tables, documents, and definitions). Your team can see why an answer is what it is.
 
-**Q: Do you work with our existing data systems?**  
-A: Yes, absolutely. I specialize in integrating with the systems you already use, including databases, cloud services, APIs, and business software, to create a unified view of your data.
+**Q: Do you work with our existing systems and documents?**  
+A: Yes. We integrate your apps (APIs, databases) and ingest unstructured knowledge (PDFs, SOPs, intranet) into one searchable, traceable layer.
 
 **Q: How do you ensure the solution meets our needs?**  
-A: I use a collaborative and iterative approach. We'll have regular check-ins and demos where you can provide feedback. This ensures the project stays aligned with your goals and that the final solution is exactly what you need.
-
-**Q: What happens after the project is complete?**  
-A: At the end of the project, I provide full documentation, training for your team, and a clear hand-off. I also offer ongoing support plans to help you maintain and expand the system as your business grows.
+A: Iterative cycles of conjecture and criticism, regular demos, feedback, and adjustments to keep the layer aligned with real use.
 :::
 :::
 
 ::: {.section}
-## What's Possible Next? Advanced Data Science Services
+## What’s Next? Advanced Decision Modeling
 
 ::: {.faq-section}
-Once your business data is organized into a robust ontology, it becomes a powerful asset. This knowledge foundation allows us to answer critical business questions and predict future outcomes. Here are some of the advanced solutions we can build:
+Once your information is unified in the semantic layer, we move from reporting to testing business ideas. Instead of a “crystal ball,” we build tools to challenge strategies, surface counterexamples, and model decisions with evidence.
 
 ---
 
 **Goal: Reduce customer churn.**  
-*Solution: The Customer Churn Predictor*  
-We identify the key warning signs in your data (like decreased product usage or specific support issues) to create a priority list of at-risk customers, so your team can proactively intervene.
+*Solution: At Risk Customer Identification*  
+Validate signals (usage drop, support issues) and flag profiles likely to need intervention so your team can act early.
 
 **Goal: Identify your best new customers.**  
-*Solution: The Lifetime Value (LTV) Forecaster*  
-We predict the long-term value of new customers the moment they sign up. This helps you focus resources on high-potential clients and optimize your acquisition spending.
+*Solution: High LTV Signals Finder*  
+Find and validate early indicators of long term value to focus acquisition and onboarding.
 
-**Goal: Increase the value of each sale.**  
-*Solution: The Up-sell & Cross-sell Recommender*  
-By analyzing purchase patterns, we build a recommendation engine to suggest the right next product or service for each customer, increasing your average order value.
+**Goal: Increase value per sale.**  
+*Solution: Next Best Action Recommender*  
+Use purchase and behavior patterns to propose offers, with clear rationale and guardrails.
 
 **Goal: Prioritize your sales efforts.**  
-*Solution: The Lead Scoring Prioritizer*  
-We automatically score every new lead based on their likelihood to convert. This allows your sales team to stop guessing and focus their time on the prospects most likely to close.
+*Solution: Lead Prioritization Model*  
+Score leads with explainable factors so reps focus where evidence is strongest.
 
 **Goal: Optimize your marketing budget.**  
-*Solution: The Marketing Attribution Modeler*  
-We go beyond "last-click" to determine which ads, emails, and campaigns are truly driving sales. This lets you confidently re-invest your marketing budget in what works and cut what doesn't.
+*Solution: Marketing Attribution Model*  
+Go beyond last click to see which touches truly drive outcomes and where to re invest.
 
-**Goal: Create more accurate financial forecasts.**  
-*Solution: The Sales & Revenue Forecaster*  
-We create a data-driven forecast that's more accurate than a simple spreadsheet, helping with financial planning, hiring, and setting realistic team goals.
+**Goal: Plan revenue with confidence.**  
+*Solution: Revenue Scenarios & Planning*  
+Build scenario models (pricing, campaigns, seasonality) with assumptions you can inspect and challenge.
 
 **Goal: Prevent stockouts and reduce excess inventory.**  
-*Solution: The Demand & Inventory Forecaster*  
-We predict how much of each product customers will buy, helping you avoid costly stockouts while not tying up cash in overstock.
+*Solution: Demand Signals & Inventory Planning*  
+Translate demand signals into practical purchasing guidance, with sensitivity to uncertainty.
 
 **Goal: Reduce fraudulent transactions.**  
-*Solution: The Transaction Fraud Detector*  
-We build a model that spots suspicious activity in real-time by identifying patterns that differ from normal user behavior, helping you reduce fraud and chargebacks.
-
+*Solution: Anomaly & Fraud Detection*  
+Detect suspicious patterns with human review workflows and source traceability.
 :::
 :::
 
 ::: {.section-centered}
-## Ready to Build Your Company's Brain?
+## Ready to Build Your Company’s Brain?
 
-**Let's discuss how a unified knowledge system can solve your specific challenges. Schedule a free, no-obligation consultation today.**
+**Let’s discuss how a unified semantic layer can solve your specific challenges. Schedule a free, no‑obligation consultation today.**
 
 ::: {.hero-cta}
 [Schedule Free Consultation](contact.html){.btn .btn-primary .btn-lg}

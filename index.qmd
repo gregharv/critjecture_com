@@ -9,42 +9,42 @@ toc-depth: 2
 ::: {.brand-header}
 ![Critjecture](favicon.svg){.brand-icon}
 :::
-**Businesses possess vast amounts of data, but is it creating knowledge? We believe knowledge is forged through a process of <abbr title="The philosophical approach that knowledge is advanced by proposing creative hypotheses (conjecture) and then attempting to refute them (criticism).">criticism and conjecture</abbr>. We transform scattered data into robust <abbr title="A formal model of business data, defining entities, their properties, and the relationships between them. It acts as a 'map of knowledge'.">ontologies</abbr> (maps of business data) that empower both people and AI to quickly iterate on the knowledge process and find verifiable answers.**
+**Businesses possess vast amounts of data, but is it creating knowledge? Knowledge is forged through <abbr title="The philosophical approach that knowledge advances by proposing creative hypotheses (conjectures) and then attempting to refute them (criticism).">criticism and conjecture</abbr>. We transform scattered information across apps, databases, PDFs, and internal sites into a unified <strong>semantic layer</strong> (a shared map of your business) that empowers people and AI to ask clear questions, get verifiable answers, and rigorously test ideas.**
 :::
 
 ::: {.services-overview}
 ::: {.service-card}
-### Ontology Engineering
-We forge knowledge by criticizing our models of the world. Through a rigorous cycle of conjecture and criticism, we build and refine a map of your business data. This becomes your ontology, a robust framework designed to accelerate the process of proposing and refuting ideas, creating a single, testable view of your operations.
+### Semantic Layer Engineering
+We design and implement a unified semantic layer that connects your core systems (CRM, accounting, marketing, e‑commerce, etc.) and operational knowledge (policies, procedures, manuals, intranet). This becomes your centalized record of knowledge for analysis and decision making.
 :::
 
 ::: {.service-card}
 ### Transparent AI & Analytics
-AI doesn't create knowledge, but it’s a powerful tool for criticism. It uses the ontology to help your team test conjectures faster by surfacing problems, patterns, and counter examples. We build transparent AI systems where every insight is traceable, empowering your team to critically evaluate and not blindly trust the answers they receive.
+AI doesn’t create knowledge, but it’s a powerful tool for criticism. Using your semantic layer, we build traceable analytics and AI assistants where every answer links back to sources (data tables, documents, and definitions). Your team can interrogate results instead of blindly trusting them.
 :::
 :::
 
 ::: {.section}
 ## Why Critjecture?
 
-Standard data organization is typically passive. I treat it as an active dialogue. Through rapid cycles of conjecture (proposing models) and criticism (testing them against reality), I forge a living map of your business knowledge, not just a static database.
+Standard data efforts are passive. Ours is an active dialogue. Through rapid cycles of conjecture (proposing models) and criticism (testing them against reality), we forge a living semantic layer, not just a pile of dashboards.
 
-As a solo consultant, you get a dedicated partner. My entire focus is on applying this rigorous process to build a robust, testable ontology that is uniquely yours.
+As a solo consultant, you get a dedicated partner focused on building a robust, testable foundation that’s uniquely yours.
 
 ::: {.stats-grid}
 ::: {.stat-item}
-### <abbr title="The process of forming a hypothesis or educated guess based on available information.">Conjecture</abbr>
+### <abbr title="The process of forming an educated guess based on available information.">Conjecture</abbr>
 Modeling Data's Potential
 :::
 
 ::: {.stat-item}
-### <abbr title="The process of rigorously analyzing and testing a hypothesis to find its flaws and limitations.">Criticism</abbr>
+### <abbr title="The process of rigorously analyzing and testing guesses to find their flaws and limitations.">Criticism</abbr>
 Refining Models to Fit Reality
 :::
 
 ::: {.stat-item}
-### <abbr title="Durable, well-structured knowledge models that serve as a single, reliable source of record for business operations.">Robust Ontologies</abbr>
-As a Single Source of Record
+### Robust Semantic Layer
+Your Single Source of Record
 :::
 
 ::: {.stat-item}
@@ -65,29 +65,53 @@ Dedicated Focus on Client Projects
 :::
 
 ::: {.section}
-## Our Approach: A Cycle of Inquiry
+## What We Connect
 
-Our method is a continuous loop of questioning and refining to build the most accurate and useful knowledge model for business operations.
+- **CRM**: Salesforce, HubSpot, Zoho, Pipedrive  
+- **Marketing & Email**: Mailchimp, HubSpot, Klaviyo, Constant Contact  
+- **E‑commerce**: Shopify, WooCommerce, BigCommerce, Magento  
+- **Payments**: Stripe, PayPal, Square, Braintree  
+- **Accounting**: QuickBooks, Xero, FreshBooks, Wave  
+- **Support**: Zendesk, Freshdesk, Intercom, Help Scout  
+- **Operations & PM**: Asana, Trello, Monday.com, Jira  
+- **Documents & Sites**: PDFs, handbooks, SOPs, intranet pages, public website
+
+Once connected, your team and AI can ask: “What was our CAC last quarter?” and “What’s our official refund process?” in one place.
+:::
+
+::: {.section}
+## Our Approach: Two Steps
+
+- **Step 1 — Build the Semantic Layer (Unified Knowledge)**  
+  Connect structured data and unstructured knowledge into a single, shared context. Enable verifiable answers with linked sources.
+
+- **Step 2 — Test Your Business (The Critjecture Engine)**  
+  Move from reporting to refutation. We help you challenge your own strategies with evidence, profiling risky segments, running decision impact scenarios, and surfacing counterexamples so weak ideas fail fast and strong ideas scale.
+
+:::
+
+::: {.section}
+## Our Working Cycle
 
 ::: {.approach-grid}
 ::: {.approach-item}
 ### 1. Discovery & Conjecture
-We begin by exploring the data landscape and proposing initial models. We ask: "What are the key entities in the business? What are the hypothetical relationships between them?"
+We explore your data landscape and propose initial business definitions and relationships in the semantic layer.
 :::
 
 ::: {.approach-item}
 ### 2. Modeling & Criticism
-We construct the formal ontology and then rigorously challenge it. We test its logic, validate it against real-world scenarios, and refine its structure until it accurately reflects the business domain.
+We implement the layer and rigorously challenge it, validating logic against real scenarios and refining until it fits reality.
 :::
 
 ::: {.approach-item}
 ### 3. Activation & Integration
-We deploy the ontology, making it the backbone for data systems. We ensure it integrates seamlessly with existing tools and provides a queryable knowledge layer for AI applications.
+We make the semantic layer the backbone for analytics and AI. Ask questions across data and documents with traceable sources.
 :::
 
 ::: {.approach-item}
 ### 4. Evolution & Refinement
-Knowledge is not static. We establish a framework for the ontology to evolve as businesses grow, ensuring it remains a relevant and powerful asset for years to come.
+Knowledge isn’t static. We establish a change process so the layer evolves with your business and stays useful.
 :::
 :::
 :::
@@ -95,7 +119,7 @@ Knowledge is not static. We establish a framework for the ontology to evolve as 
 ::: {.section-centered}
 ## See Our Philosophy in Action
 
-Curious what a transparent AI workflow looks like? Our demo application provides a firsthand experience. Upload a CSV file, ask it a question, and receive a report complete with interactive charts and linked sources.
+Curious what a transparent AI workflow looks like? Our demo shows traceable answers, interactive charts, and linked sources.
 
 This is the future of data interaction: not a black box, but a clear, auditable process.
 
@@ -107,7 +131,7 @@ This is the future of data interaction: not a black box, but a clear, auditable 
 ::: {.section-centered}
 ## Ready to Unlock Real Knowledge?
 
-**Let's talk about how the Critjecture method can transform scattered data into a powerful, understandable and AI ready ontology. Schedule a free 30-minute consultation to begin the dialogue.**
+**Let’s talk about how Critjecture can turn scattered systems and documents into an AI‑ready semantic layer. Schedule a free 30‑minute consultation to begin the dialogue.**
 
 ::: {.hero-cta}
 [Schedule a Consultation](contact.html){.btn .btn-primary .btn-lg}

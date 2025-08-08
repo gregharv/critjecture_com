@@ -1,7 +1,7 @@
 ::: {.hero-section}
 # Contact Us {.display-1}
 
-**Ready to build AI and ontological systems you can understand? Let's talk.**
+**Ready to build AI systems you can understand? Let's talk.**
 :::
 
 ::: {.section}

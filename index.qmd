@@ -9,13 +9,23 @@ toc-depth: 2
 ::: {.brand-header}
 ![Critjecture](favicon.svg){.brand-icon}
 :::
-**Businesses possess vast amounts of data, but is it creating knowledge? Knowledge is forged through <abbr title="The philosophical approach that knowledge advances by proposing creative hypotheses (conjectures) and then attempting to refute them (criticism).">criticism and conjecture</abbr>. We transform scattered information across apps, databases, PDFs, and internal sites into a unified <strong>semantic layer</strong> (a shared map of your business) that empowers people and AI to ask clear questions, get verifiable answers, and rigorously test ideas.**
+**Businesses possess vast amounts of data, but is it creating knowledge? Knowledge is forged through <abbr title="The philosophical approach that knowledge advances by proposing creative hypotheses (conjectures) and then attempting to refute them (criticism).">criticism and conjecture</abbr>. We transform scattered information across apps, databases, PDFs, and internal sites into a unified <strong>semantic layer</strong> (a shared map of your business) that empowers people and AI to ask clear questions, get verifiable answers, and rigorously test ideas — especially for mid‑sized e‑commerce and subscription brands that need clarity across sales, marketing, finance, and operations.**
+:::
+
+
+::: {.section}
+## Who We Serve
+
+- **Mid‑sized e‑commerce and subscription brands (roughly $2M–$100M ARR/GMV)**
+- **Lean teams** that need leverage more than headcount
+- **Scattered systems** (Shopify/Stripe/Klaviyo/HubSpot/QuickBooks) and document sprawl (SOPs, intranet)
+- **Outcome focus**: faster reporting, traceable answers, and tested decisions
 :::
 
 ::: {.services-overview}
 ::: {.service-card}
 ### Semantic Layer Engineering
-We design and implement a unified semantic layer that connects your core systems (CRM, accounting, marketing, e‑commerce, etc.) and operational knowledge (policies, procedures, manuals, intranet). This becomes your centalized record of knowledge for analysis and decision making.
+We design and implement a unified semantic layer that connects your core systems (CRM, accounting, marketing, e‑commerce, etc.) and operational knowledge (policies, procedures, manuals, intranet). This becomes your centralized record of knowledge for analysis and decision making.
 :::
 
 ::: {.service-card}
@@ -25,69 +35,29 @@ AI doesn’t create knowledge, but it’s a powerful tool for criticism. Using y
 :::
 
 ::: {.section}
-## Why Critjecture?
+## Quick Win Diagnostic (2 Weeks, $500)
+Money‑back guarantee if you don’t find at least one actionable improvement.
 
-Standard data efforts are passive. Ours is an active dialogue. Through rapid cycles of conjecture (proposing models) and criticism (testing them against reality), we forge a living semantic layer, not just a pile of dashboards.
+Deliverables:
 
-As a solo consultant, you get a dedicated partner focused on building a robust, testable foundation that’s uniquely yours.
-
-::: {.stats-grid}
-::: {.stat-item}
-### <abbr title="The process of forming an educated guess based on available information.">Conjecture</abbr>
-Modeling Data's Potential
-:::
-
-::: {.stat-item}
-### <abbr title="The process of rigorously analyzing and testing guesses to find their flaws and limitations.">Criticism</abbr>
-Refining Models to Fit Reality
-:::
-
-::: {.stat-item}
-### Robust Semantic Layer
-Your Single Source of Record
-:::
-
-::: {.stat-item}
-### <abbr title="Insights and data points that can be traced back to their source, allowing for validation and increased understanding.">Verifiable Answers</abbr>
-For Humans & AI
-:::
-
-::: {.stat-item}
-### <abbr title="Processes where the steps taken by an AI or system are clear and auditable, not hidden in a 'black box'.">Transparent Workflows</abbr>
-Teams Can Depend on
-:::
-
-::: {.stat-item}
-### <abbr title="Clients work directly with the principal expert, ensuring deep focus, accountability, and a consistent vision for their project.">Solo Expertise</abbr>
-Dedicated Focus on Client Projects
-:::
-:::
+- Visual map of data and knowledge flows across your stack
+- Quantified inefficiencies and handoffs slowing decisions
+- Baseline KPIs and a prioritized backlog of 3–5 quick wins
+- ROI hypothesis and implementation plan for the top quick win
 :::
 
 ::: {.section}
-## What We Connect
+## Our Approach: Modular Phases
 
-- **CRM**: Salesforce, HubSpot, Zoho, Pipedrive  
-- **Marketing & Email**: Mailchimp, HubSpot, Klaviyo, Constant Contact  
-- **E‑commerce**: Shopify, WooCommerce, BigCommerce, Magento  
-- **Payments**: Stripe, PayPal, Square, Braintree  
-- **Accounting**: QuickBooks, Xero, FreshBooks, Wave  
-- **Support**: Zendesk, Freshdesk, Intercom, Help Scout  
-- **Operations & PM**: Asana, Trello, Monday.com, Jira  
-- **Documents & Sites**: PDFs, handbooks, SOPs, intranet pages, public website
-
-Once connected, your team and AI can ask: “What was our CAC last quarter?” and “What’s our official refund process?” in one place.
-:::
-
-::: {.section}
-## Our Approach: Two Steps
-
-- **Step 1 — Build the Semantic Layer (Unified Knowledge)**  
+**Phase 1 — Build the Semantic Layer (Unified Knowledge)**  
   Connect structured data and unstructured knowledge into a single, shared context. Enable verifiable answers with linked sources.
 
-- **Step 2 — Test Your Business (The Critjecture Engine)**  
+**Phase 2 — Test Your Business (The Critjecture Engine)**  
   Move from reporting to refutation. We help you challenge your own strategies with evidence, profiling risky segments, running decision impact scenarios, and surfacing counterexamples so weak ideas fail fast and strong ideas scale.
 
+- **Start Anywhere**: Already have a warehouse or BI? We plug into what’s working. Want AI first? We’ll scope a safe, source‑traceable pilot.
+
+- **Modular Pricing**: Phases are independently purchasable with bundled discounts for full adoption.
 :::
 
 ::: {.section}
@@ -116,6 +86,27 @@ Knowledge isn’t static. We establish a change process so the layer evolves wit
 :::
 :::
 
+::: {.section}
+## Operational AI Retainer Tied to KPIs
+
+Stay effective after launch. The retainer focuses on measurable outcomes, not “AI babysitting.”
+
+- **Report turnaround time**: reduce by X% each quarter
+- **Time‑to‑insight** for decision questions: downtrend with target thresholds
+- **Self‑serve Q&A adoption**: track usage and satisfaction
+- **SLA for model and content updates**: prioritized backlog with response times
+- **Quarterly strategy workshop**: review outcomes, surface counterexamples, plan next experiments
+:::
+
+::: {.section}
+## Why We’re Different
+
+- **E‑commerce semantic templates**: accelerate time‑to‑value with domain models for orders, subscriptions, cohorts, returns, CAC/LTV, and attribution
+- **Transparency by default**: every number and answer links to sources and definitions
+- **Change enablement**: workflows, training, and governance so models stick
+- **Start fast, prove value**: 2‑week diagnostic with a money‑back guarantee
+:::
+
 ::: {.section-centered}
 ## See Our Philosophy in Action
 
@@ -124,7 +115,7 @@ Curious what a transparent AI workflow looks like? Our demo shows traceable answ
 This is the future of data interaction: not a black box, but a clear, auditable process.
 
 ::: {.hero-cta}
-[Try the Critjecture App](https://critjecture-app-production.up.railway.app/){.btn .btn-secondary .btn-lg}
+[Try the Critjecture App](https://critjecture.com/){.btn .btn-secondary .btn-lg}
 :::
 :::
 
@@ -132,6 +123,17 @@ This is the future of data interaction: not a black box, but a clear, auditable 
 ## Ready to Unlock Real Knowledge?
 
 **Let’s talk about how Critjecture can turn scattered systems and documents into an AI‑ready semantic layer. Schedule a free 30‑minute consultation to begin the dialogue.**
+
+::: {.hero-cta}
+[Book the Quick Win Diagnostic](contact.html){.btn .btn-primary .btn-lg}
+[Schedule a Consultation](contact.html){.btn .btn-secondary .btn-lg}
+:::
+:::
+
+::: {.section-centered}
+## Partnerships Welcome
+
+We collaborate with accountants, CRM/ERP implementers, and agencies to bring transparent analytics and AI to their clients. Get in touch to explore a joint offering.
 
 ::: {.hero-cta}
 [Schedule a Consultation](contact.html){.btn .btn-primary .btn-lg}

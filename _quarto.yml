@@ -6,7 +6,7 @@ project:
 site:
   title: "Critjecture"
   description: "Secure and Traceable AI Solutions for Your Business"
-  url: "https://critjecture.com"
+  url: "https://services.critjecture.com"
   google-analytics: G-G5HVMCKLYL
   author:
     name: "Critjecture"
@@ -14,12 +14,14 @@ site:
   favicon: favicon.svg
   navbar:
     left:
+      - href: index.qmd
+        text: Services
       - href: contact.qmd
         text: Contact
       - text: FAQ
         href: faq.qmd
     right:
-      - href: https://critjecture-app-production.up.railway.app/
+      - href: https://critjecture.com/
         text: App
         target: _blank
       - icon: twitter-x

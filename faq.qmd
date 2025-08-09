@@ -12,8 +12,11 @@ toc-depth: 2
 **Q: What is a semantic layer, and why do I need one?**  
 A: It’s a shared, business friendly map of your company’s information spanning your apps (CRM, accounting, e‑commerce), databases, and knowledge (policies, procedures, intranet). It defines common terms like “customer,” “order,” and “refund,” and shows how they relate. With one consistent layer, you get reliable, explainable answers across your systems and documents.
 
+**Q: Who is this for?**  
+A: Mid‑sized e‑commerce and subscription brands (roughly $2M–$100M ARR/GMV) with lean teams and scattered systems (Shopify/Stripe/Klaviyo/HubSpot/QuickBooks) who need faster reporting, verifiable answers, and tested decisions.
+
 **Q: Do you build the semantic layer first, then AI?**  
-A: Yes. The semantic layer is the foundation. Once that’s in place, we enable AI Q&A and analytics that link every answer back to source data and documents. From there, we can add advanced decision models that help you test business ideas with evidence.
+A: Yes, but phases are modular. If you already have a warehouse/BI, we can plug in. If you want AI first, we’ll scope a safe, source‑traceable pilot.
 :::
 :::
 
@@ -22,19 +25,22 @@ A: Yes. The semantic layer is the foundation. Once that’s in place, we enable 
 
 ::: {.faq-section}
 **Q: How much does a semantic layer and AI Q&A system cost?**  
-A: Typically $5,000–$50,000, depending on scope and integrations. A starter (a few sources, focused outcomes) is often $5,000–$15,000. Larger, multisystem rollups and document ingestion typically range $30,000–$50,000. You’ll get a fixed, detailed quote after a free consultation.
+A: Start with a 2‑week Quick Win Diagnostic at **$500** with a **money‑back guarantee** if no actionable improvement is found. Typical implementations range **$5,000–$50,000** depending on scope and integrations. For mid‑sized e‑commerce, focused rollouts commonly land **$8,000–$25,000**.
 
 **Q: How long does it take?**  
-A: From a few weeks to several months, based on complexity and the number of systems/documents. You’ll get a clear plan with milestones after discovery.
+A: The Quick Win Diagnostic delivers visible outcomes in **2 weeks**. Implementation spans **a few weeks to several months** based on complexity and number of systems/documents.
+
+**Q: Do I have to buy all phases?**  
+A: No. Phases are independently purchasable with bundled discounts for full adoption. We “start where you are.”
 
 **Q: What if I’m not sure this is right for my business?**  
-A: That’s why the initial consultation is free. We’ll discuss your goals and I’ll give an honest assessment, no pressure.
+A: The diagnostic is low‑risk and guaranteed. We’ll discuss goals in a free consultation, and you’ll get a concrete plan before any larger commitment.
 
 **Q: Who will I be working with?**  
 A: Me. As a solo consultant, I’m your strategist, builder, and single point of contact.
 
 **Q: Do you provide ongoing support?**  
-A: Yes, optional retainers for maintenance, evolution, and new integrations.
+A: Yes, via an Operational AI Retainer tied to KPIs (see below) plus optional evolution and new integrations.
 
 **Q: What about data security and privacy?**  
 A: Security is baked in from day one. I have experience in the utility industry and military with many data governance requirements. I adapt to your compliance and data governance requirements.
@@ -47,6 +53,12 @@ A: Security is baked in from day one. I have experience in the utility industry 
 ::: {.faq-section}
 **Q: What makes your AI solutions different?**  
 A: Transparency. Because answers come through the semantic layer, every result links to its sources (tables, documents, and definitions). Your team can see why an answer is what it is.
+
+**Q: How is this different from commodity vendors or low‑code BI?**  
+A: Industry‑specific semantic templates (orders, subscriptions, cohorts, returns, CAC/LTV, attribution), source‑linked transparency, and change enablement (workflows, training, governance) that make models stick and deliver faster time‑to‑value.
+
+**Q: What KPIs do you commit to on the retainer?**  
+A: We track and target improvements in report turnaround time, time‑to‑insight for decision questions, self‑serve Q&A adoption/satisfaction, and SLA adherence for model/content updates. Quarterly strategy workshops align work to business outcomes.
 
 **Q: Do you work with our existing systems and documents?**  
 A: Yes. We integrate your apps (APIs, databases) and ingest unstructured knowledge (PDFs, SOPs, intranet) into one searchable, traceable layer.

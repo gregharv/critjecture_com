@@ -14,8 +14,6 @@ site:
   favicon: favicon.svg
   navbar:
     left:
-      - href: index.qmd
-        text: Services
       - href: contact.qmd
         text: Contact
       - text: FAQ

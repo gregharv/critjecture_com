@@ -129,13 +129,3 @@ This is the future of data interaction: not a black box, but a clear, auditable 
 [Schedule a Consultation](contact.html){.btn .btn-secondary .btn-lg}
 :::
 :::
-
-::: {.section-centered}
-## Partnerships Welcome
-
-We collaborate with accountants, CRM/ERP implementers, and agencies to bring transparent analytics and AI to their clients. Get in touch to explore a joint offering.
-
-::: {.hero-cta}
-[Schedule a Consultation](contact.html){.btn .btn-primary .btn-lg}
-:::
-:::
